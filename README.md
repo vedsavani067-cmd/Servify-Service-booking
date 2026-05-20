@@ -363,7 +363,7 @@ This project is licensed under the **ISC License**.
 
 ## 👤 Author
 
-**Vedavati Savani**  
+**Ved Savani**  
 GitHub: [@vedsavani067-cmd](https://github.com/vedsavani067-cmd)
 
 ---
